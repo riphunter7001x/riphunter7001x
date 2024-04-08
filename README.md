@@ -11,6 +11,8 @@
   <h4>Technologies:</h4>
   <img src="https://avatars.githubusercontent.com/u/15658638?v=4" alt="Tensorflow" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/21003710?v=4" alt="PyTorch" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" alt="Jupyter Notebook" height="40" width="40"/>
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" height="40"/>
