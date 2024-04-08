@@ -1,6 +1,5 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-<p align="left">My name is Aditya Varpe and I'm a passionate Artificial Intelligence Engineer from India.</p>
+<h1 align="center">Hi 👋, I'm Aditya Varpe</h1>
+<h3 align="center">A Passionate Artificial Intelligence Engineer from India</h3>
 
 <h2 align="left">About me</h2>
 
