@@ -3,7 +3,8 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">✨ Known to find creative solutions since 2020<br>📚 I'm currently learning advanced artificial intelligence techniques including Generative AI<br>🎯 Goals: Contribute to impactful AI projects and drive innovation<br>📫 How to reach me: adi.varpe117@gmail.com</p>
+<p align="left">✨ Known to find creative solutions since 2020<br>📚 I'm currently learning advanced artificial intelligence techniques including Generative AI<br>🎯 Goals: Contribute to impactful AI projects and drive innovation<br>📫 How to reach me: <a href="mailto:adi.varpe117@gmail.com">adi.varpe117@gmail.com</a></p>
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
