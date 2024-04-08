@@ -1,16 +1,37 @@
-### Hi there 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<!--
-**riphunter7001x/riphunter7001x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">My name is Aditya Varpe and I'm a passionate Artificial Intelligence Engineer from India.</p>
 
-Here are some ideas to get you started:
+<h2 align="left">About me</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning advanced artificial intelligence techniques<br>🎯 Goals: Contribute to impactful AI projects and drive innovation</p>
+
+<h3 align="left">🛠 Language and tools</h3>
+
+<div align="left">
+  <h4>Technologies:</h4>
+  <img src="https://avatars.githubusercontent.com/u/15658638?v=4" alt="Tensorflow" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/21003710?v=4" alt="PyTorch" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" height="40"/>
+  <img src="https://raw.githubusercontent.com/VinciGit00/Scrapegraph-ai/main/docs/assets/scrapegraphai_logo.png" alt="Web Scraping" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/LangChain_logo.svg/1200px-LangChain_logo.svg.png" alt="Langchain" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/api-settings.png" alt="API (Application Programming Interface)" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="Git, GitHub" height="40"/>
+  <img src="https://promptengineering.org/content/images/2023/06/Prompt-engineering-logos.png" alt="Prompt Engineering" height="40"/>
+
+  
+  <h4>Programming Languages:</h4>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40"/></a>
+  
+  <h4>Cloud Technologies:</h4>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS (Amazon Web Services)" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png" alt="Azure (Microsoft Azure)" height="40"/></a>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" height="40"/>
+  
+  <h4>Databases:</h4>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="40"/></a>
+  <a href="#"><img src="https://pypi-camo.freetls.fastly.net/0dff2817a1c53fd57e681e0bcbdcfb1a35b8d6b5/68747470733a2f2f6769746875622e636f6d2f6a696e612d61692f766563746f7264622f626c6f622f6d61696e2f2e676974687562253246696d61676573253246766563746f7264622d6c6f676f2e706e673f7261773d74727565" alt="MongoDB" height="40"/></a>
