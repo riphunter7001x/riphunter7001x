@@ -38,8 +38,7 @@
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="40"/></a>
   <a href="#"><img src="https://pypi-camo.freetls.fastly.net/0dff2817a1c53fd57e681e0bcbdcfb1a35b8d6b5/68747470733a2f2f6769746875622e636f6d2f6a696e612d61692f766563746f7264622f626c6f622f6d61696e2f2e676974687562253246696d61676573253246766563746f7264622d6c6f676f2e706e673f7261773d74727565" alt="MongoDB" height="40"/></a>
-  <a href="#"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fneo4j&psig=AOvVaw2EcFdmmOfdwzXCmUDV_8Yo&ust=1717704679663000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjYzeCixYYDFQAAAAAdAAAAABAE
-" alt="Neo4j" height="40"/></a>
+  <a href="#"><img src="https://camo.githubusercontent.com/d73d9b534d02b19f426361674afcf3a13d6dfe218ae9dc6ef0e6c751d17d912b/68747470733a2f2f646973742e6e656f346a2e636f6d2f77702d636f6e74656e742f75706c6f6164732f32303231303432323134303033342f4e656f346a2d6c6f676f5f636f6c6f722e706e67" alt="Neo4j" height="40"/></a>
 
 
   
