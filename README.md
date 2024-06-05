@@ -19,7 +19,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" height="40"/>
   <img src="https://raw.githubusercontent.com/VinciGit00/Scrapegraph-ai/main/docs/assets/scrapegraphai_logo.png" alt="Web Scraping" height="40"/>
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/LangChain_logo.svg/1200px-LangChain_logo.svg.png](https://avatars.githubusercontent.com/u/126733545?s=280&v=4)" alt="Langchain" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=280&v=4" alt="Langchain" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/api-settings.png" alt="API (Application Programming Interface)" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="Git, GitHub" height="40"/>
   <img src="https://promptengineering.org/content/images/2023/06/Prompt-engineering-logos.png" alt="Prompt Engineering" height="40"/>
