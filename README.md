@@ -1,22 +1,8 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║        ██████╗ ██╗    ███╗   ██╗███████╗██╗   ██╗██████╗     ║
-║       ██╔══██╗██║    ████╗  ██║██╔════╝██║   ██║██╔══██╗    ║
-║       ███████║██║    ██╔██╗ ██║█████╗  ██║   ██║██████╔╝    ║
-║       ██╔══██║██║    ██║╚██╗██║██╔══╝  ██║   ██║██╔══██╗    ║
-║       ██║  ██║██║    ██║ ╚████║███████╗╚██████╔╝██║  ██║    ║
-║       ╚═╝  ╚═╝╚═╝    ╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝   ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D4FF,100:6E40C9&height=220&section=header&text=Aditya%20Varpe&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Bengaluru%2C%20India%20🇮🇳&descAlignY=58&descAlign=50&descSize=20)
 
-# `> Aditya Varpe`
-### AI Engineer · Bengaluru, India 🇮🇳
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Agentic+AI+%7C+LangGraph+%7C+LLM+Fine-Tuning;RAG+Pipelines+%7C+Knowledge+Systems;MCP+Servers+%7C+FastMCP+%7C+Tool+Orchestration;LLM+Guardrails+%7C+Safe+AI+in+Production;Graph+Analytics+%7C+Neo4j+%7C+Fraud+Detection;Turning+Ideas+into+Intelligent+Systems+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Designing+systems+that+reason%2C+not+just+respond;Agentic+AI+%7C+LangGraph+%7C+Multi-Agent+Orchestration;RAG+%7C+LLM+Fine-Tuning+%7C+Production+Deployment;MCP+Servers+%7C+FastMCP+%7C+Tool+Ecosystems;LLM+Guardrails+%7C+Safe+%26+Reliable+AI;Graph+Intelligence+%7C+Neo4j+%7C+Fraud+Detection)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityavarpe)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityavarpe)
@@ -32,25 +18,29 @@
 class AdityaVarpe:
     role        = "AI Engineer"
     location    = "Bengaluru, India 🇮🇳"
-    experience  = "2+ years building production AI systems"
-    education   = "B.Tech AI · CGPA: 8.79 | Honors in Data Science · CGPA: 8.5"
+    experience  = "2+ years designing and shipping production-grade AI systems"
+    education   = "B.Tech in Artificial Intelligence · CGPA 8.79"
+                  "Honors in Data Science · CGPA 8.5"
 
-    focus_areas = [
-        "Agentic Workflows (LangGraph, CrewAI)",
-        "RAG & Knowledge Retrieval Systems",
-        "LLM Fine-Tuning & Evaluation",
-        "MCP Servers & Tool Orchestration (FastMCP)",
-        "LLM Guardrails & Safe AI in Production",
-        "Scalable MCP Server Architecture",
-        "Vision-Language Models & Advanced OCR",
-        "Graph-based Analytics & Fraud Detection (Neo4j)",
-        "MLOps · CI/CD for AI Systems",
+    philosophy  = """
+        I don't just wire APIs together — I think carefully about
+        how intelligence should be structured, constrained, and scaled.
+        From multi-agent reasoning to safe LLM deployment, I build
+        systems that are robust by design, not by accident.
+    """
+
+    deep_expertise = [
+        "Agentic system design         →  LangGraph, CrewAI, multi-step reasoning",
+        "Retrieval-Augmented Generation →  hybrid search, re-ranking, context fidelity",
+        "LLM Fine-Tuning               →  LoRA, PEFT, domain adaptation, evaluation",
+        "MCP Server architecture       →  FastMCP, scalable tool ecosystems",
+        "LLM Guardrails                →  output validation, hallucination mitigation",
+        "Graph intelligence            →  Neo4j, network analysis, fraud patterns",
+        "Vision-Language Models        →  OCR, document understanding, VLM fine-tuning",
+        "MLOps                         →  CI/CD pipelines, model versioning, monitoring",
     ]
 
-    currently_building = "Scalable MCP servers & production-safe LLM systems 🚀"
-
-    def life_motto(self):
-        return "Ship intelligent systems. Stay curious. Keep iterating."
+    currently_solving = "How to make LLM systems reliable enough to trust at scale"
 ```
 
 ---
@@ -102,31 +92,28 @@ class AdityaVarpe:
 
 
 
----
+## `🧭 What I'm thinking about`
 
-## `📡 Currently Exploring`
+> These aren't just tools I'm learning — they're problems I'm actively working through.
 
 ```
-🔌  Scalable MCP Server architecture with FastMCP
-🛡️  LLM Guardrails — output validation, toxicity filters, hallucination control
-🔭  Multi-agent orchestration patterns at scale
-🧪  LLM evaluation frameworks & observability (LangSmith, Arize)
-⚙️  MLOps best practices for LLM production systems
-📐  Graph Neural Networks + LLMs
+🔌  MCP Server design patterns — what makes a tool ecosystem actually composable?
+🛡️  Where guardrails break — edge cases in output validation & prompt injection defense
+🔭  Failure modes in multi-agent systems — how do you debug reasoning at scale?
+🧪  LLM evaluation that actually means something — beyond benchmarks (LangSmith, Arize)
+📐  Graph + LLM hybrids — structured relational reasoning meets unstructured generation
+⚙️  Operational maturity for AI — monitoring, drift detection, graceful degradation
 ```
-
 
 
 <div align="center">
 
-### `> Let's build the future of AI together`
+### `> Open to conversations about hard AI problems`
 
 [![Email](https://img.shields.io/badge/adi.varpe117%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adi.varpe117@gmail.com)
 
----
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,50:00D4FF,100:0D1117&height=120&section=footer)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=adityavarpe&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-*"The best AI systems don't just predict — they act, adapt, and deliver."*
+*"Good AI engineering is knowing exactly where your system will fail — before it does."*
 
 </div>
